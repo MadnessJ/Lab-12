@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Aam7c7yaVY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZENBOOK\\Documents\\Lập Trình Hướng Đối Tượng\\Bai tap\\Lab12_Final\\PlayerApp\\PlayerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZENBOOK\\.nuget\\packages\\firebasedatabase.net\\5.0.0\\firebasedatabase.net.5.0.0.nupkg.sha512",
+    "C:\\Users\\ZENBOOK\\.nuget\\packages\\litedb\\5.0.17\\litedb.5.0.17.nupkg.sha512",
+    "C:\\Users\\ZENBOOK\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ZENBOOK\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512",
+    "C:\\Users\\ZENBOOK\\.nuget\\packages\\system.text.json\\9.0.6\\system.text.json.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
